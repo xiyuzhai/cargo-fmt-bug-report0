@@ -162,29 +162,12 @@ impl<'t, C> XgRipdWzqzjsgirfkpoAjgawwm<'t, T> {
                 y_msrn_ffw_rsxl_yagpwcod_spxblhsd,
                 xkdh_tzo_lrxr_qplnpzqi_ojksnoqg
             } => [
-                B(t_imv_z_oax),
-                X(o_tji),
-                M(*ym_k_mk),
-                U(*nk_z_it),
                 U(*k_qexy_qmf_x_lvnt_lb),
                 L(q_scq_k_unaz_oz_uvdivdxu.foes()),
-                B(vndm_ru_jkjn_rrbjihri_lwrigcjs.lwmt()),
-                B(i_vws_v_heye_zvt_pauupwpo.tqim()),
-                E(s_eb_rpem_zbzieccr_dpahvpkx.jkgb()),
-                R(x_mn_wcof_sdgwipvb_hzyhmhuz.tlbu()),
                 G(b_evup_uo_mbknpvzv.lold()),
                 I(fjpw_j_unce_cpdeubue_gtesmroq.fkpb()),
-                I(q_blkb_xgl_f_kqud_bwft_fb_gzddzjyx.ftzx()),
-                C(d_xtzi_uks_giqi_nvafdlpo_lqrovhxy.mpkt()),
-                X(c_dsef_kfv_tgqh_hrcuqkit_tgstdmqd.zvcl()),
-                U(mjwl_yjv_knpi_bkmvdbvx_scwhhqwo.zyxs()),
             ]
             .ed_fzll(self),
-            XhHwqKpyfSahcmtbqpgIggapaccubyo::KhSmonBtlbkk { yc_r_gab_jm_p_du } => [
-                X(*dv_v_hit_mi_u_tb),
-            ]
-            .ye_yueb(self),
-            ApWtrGmfqUvzdfvmwdwOltqmonwbidn::PxTng => self.shulv_onfvf([]),
         };
     }
 }
