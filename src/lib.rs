@@ -1,15 +1,13 @@
-pub(crate) fn f() {
+fn f() {
     match v {
-        ZsSlkKxnaTlazniuetyQuxbqiuozijm::AuzwrwQichamqFfrUdrepwnexxeTixucVqfvyk {
+        Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa::Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa {
             ref counkz
         } =>
         match *n {
-            LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL::FondCeugmnnyq {
-                a_mei,
-            }=> todo!(),
+            LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL::Fffffffffn {}=> (),
         }
         A::A {
-            wβ, 
+            β, 
         } => todo!(),
     };
 }
