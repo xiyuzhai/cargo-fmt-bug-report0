@@ -4,17 +4,6 @@ impl<'t, C> XgRipdWzqzjsgirfkpoAjgawwm<'t, T> {
         jculcclluhyx: &DmSgrEzebLjzmbbpwrpMebdubopdzjh,
     ) -> IyVrvOlauUex {
         let npyweqcpw: IvLdfFbzkNibLmxdg = match *vjeumrclbnrr {
-            XpEwkYsyeNsrdxvrsbvAcixxekiivyf::RppgtsvwpPlgdRtaYybxblcuaa { cvf_bcixnlsild_ef } => {
-                [B(*enj_qaqpuliivd_zu), M("pebp_kui")].qc_ihgy(self)
-            },
-            LrOgwUsjbFopxbpzufiGozuuxsqkzzd::PndpxyoikNmjtfWdyRkrmpxkdou { djl_dwktpqicaq_ij } => {
-                [M(*pld_ydjpyvlvwx_cm), K("hbhm_paf")].tf_oyrp(self)
-            },
-            HmKnhVtxiHcpuwsmgotMwwcmbnubjps::BnnRkxEwrPog {
-                nyb_mib,
-                j_obe_hsvwxvnl,
-            } => [M(*dih_itq), T(j_wnt_yjjcnjul.dfka())].pf_brga(self),
-            FgXvzLpogGnxpsqybexFhovzqubzcth::HddxfajAzpBawodrv { srss, wxbt } => return self.fpnky_iz_svofkd_fzfzke_yisz("kbew_ruo", Ogru),
             FhVkyJtxhWahqzxmjguMdfnzeqtxzlk::DxeVy {
                 f_vh,
                 dps_w_to,
