@@ -9,36 +9,6 @@ impl<'t, C> XgRipdWzqzjsgirfkpoAjgawwm<'t, T> {
                 ref counkz
             } =>
             match *nawqxd {
-                NxWhmNqscYfolxjlmvlQwztcsCwkyykoDqsSkdtwjxmkeoFvbmfEywvqlQhtais::KsvKbkeukodc {
-                    k_iyc_z_lj_afty,
-                    k_cwzrryh,
-                    f_vum_a_ul_svn_zps_pxvsppho,
-                    y_crm_n_tb_mhm_tup_wqipbtoi,
-                    x_mb_fu_myedplfl,
-                    jztj_j_ca_jzsnlsei_izzfcdtv,
-                    f_xpq_h_vh_cbp_l_eaj_g_yq_sff_os_lkomlsqk,
-                    mgo_wq_tji_jgrcflyj_cepvlnnn,
-                    r_sae_v_lj_ldt_z_kxn_j_hx_amp_fpr_eiyznaek,
-                    g_mju_b_sjd_s_nwa_gci_ucltornb,
-                    u_lupy_sfh_fnkqqkxj_fubulxly,
-                    g_puq_l_kssq_geh_lcxlhlab_izajielz,
-                } => {
-                    tcqqk += "_clev_fdb_cxzpfyrfn";
-                    [
-                        T(*k_qly_p_us),
-                        D(e_onflctt),
-                        T(o_wjb_o_yh_quq_jfi_offfduix.cvap()),
-                        U(o_joe_a_sy_pwa_xjt_nrixkrha.lbyl()),
-                        K(p_va_je_dyxzfdzy.cfia()),
-                        B(voaq_l_zq_iwgvklty_wgjqfyqz.hnxn()),
-                        S(e_vip_z_wm_doi_t_rbc_q_tg_ygj_wi_ypmjmwbf.ekkx()),
-                        Z(mzp_cu_cms_obknvxfv_zzfdwjfz.dhjd()),
-                        F(u_qwp_k_de_ooz_b_raz_q_lm_mmq_raz_ccuqztsw.ssmy()),
-                        R(e_ter_b_bly_c_lpe_ldw_erwtcskk.wtse()),
-                        K(c_firq_umh_ylkyblei_mvadhifd.blpo()),
-                        U(y_ixm_e_aqcs_svl_ovgqkyna_mzjznkgs.fwdd()),
-                    ].rw_pouq(self)
-                },
                 LqHhhEpzkTfqckpbyvoNjsuypJdrvddfNzbDyyqgxibiinPoccvUdiuiwWynysi::FondCeugmnnyq {
                     a_mei,
                     c_lkm_l_fxnw_xi_phxfyera,
@@ -85,74 +55,6 @@ impl<'t, C> XgRipdWzqzjsgirfkpoAjgawwm<'t, T> {
                     self.qwwam_vhywp([])
                 },
             }
-            AvAljHnlsUbzpyvzqjaTnvrggppihkb::IsumhoNaivdwvWmfNgjphhzmgcvPaydrCkksDwryjbdQbQgullc { z_tty_d_yl } => {
-                [Z(*l_vaa_y_hk)].tg_gslo(self)
-            }
- 
-            YlAywLbqkXwgmyrqtjcNnlbptqxtets::QueyFwbTvlphftzdgfGfsqzJzwvti {
-                v_woadydb,
-                r_ky_pa_igirltvv,
-                eznh_d_ro_bhtmigzv_gdybhcfh,
-            } => [
-                A(d_pyfdxwz),
-                M(u_nq_xh_joatcswt.uqaw()),
-                X(odad_h_eq_gpdrbram_gwyupsrp.ddaj()),
-            ].tp_odtu(self),
-            PbWiiTjlsYtcummbnsdNdunaysusmlw::SqaiHweHowemwtmdvgTldzeNwxt {  } => self.vyfuk_rjsjk([]),
-            StXlvXzoeLxluayhanbYwnhkreqzhru::EfnngkrLijuf => self.aojzb_tnsrp([]),
-            QrPduSkysZsxuhfooweEbfixymbtitf::GhzxKljsuicrThtlMfmz => self.fexwh_vimpe([]),
-            ExOdhTialZbxszkmykmKvtlqixogmsn::AxrhwcxuqgRpifv => self.hhwpe_yfegi([]),
-            JfXsoCkcaRippzzcnscYltqeskcmzlx::Uwfysk => self.ruhki_ezkmf([]),
-            WrExvRgtgBtcmveekdrVcjskszqnqmn::SfuIoscHl { sr_x_cjd_la_h_cv } => [E(*cf_o_loz_uv_w_jn)].wx_iuqo(self),
-            NbTwjCqxaYgefcgooprDwwtiunqoaqy::CyBog => self.bgxuo_sftej([]),
-            WwVjpTnjhWqkrmveofuNxnrmoskmukh::SwVs {
-                e_kl,
-                ov_u_dbfe_sb,
-                t_srtw_ns_lnprhqai,
-                u_yaui_c_wjbq_fzechhdw_itftgoew,
-            } => [
-                Z(*m_gs),
-                D(*lk_d_emsu_xk),
-                N(n_iulg_bo_krbaugdk.fcwl()),
-                N(b_pgkl_f_xwzd_cxxfrgtz_pxzpuljf.oroi()),
-            ]
-            .ts_wnjc(self),
-            HaBasHnlcOxzlnodizrUawmffiodfnw::HrKcagdFoahYlihQfh {
-                f_ylk,
-                h_cfv_xe_x_hc,
-                s_nsaa_uo_vtlsiyqq,
-                abjl_i_rpbo_sylmtavr_ppdbrwuk,
-                f_bkj_u_uyfr_uzl_zfzhjbpf,
-                k_gqagn_kyem_ejrupgkc_ztyuphkz,
-                b_veehg_adli_ktmrowft_bvwzeold,
-            } => [
-                C(p_tcl),
-                A(*v_vdw_ra_a_hg),
-                M(x_twda_au_zvzzmkyn.gvtw()),
-                A(abhc_i_ssxx_jbkjvzvk_mtwdklxy.kyon()),
-                F(w_zaz_q_npix_cun_ycortfee.bchj()),
-                I(h_okpjp_szxt_hlubgbof_nhchzjzq.uere()),
-                I(w_cgkcm_fliy_nzqmglcy_igzquqek.msip()),
-            ]
-            .up_qekl(self),
-            ImLhwPdgePvxnbufpkuUnxlituwusuh::QrHjwBrjjYzyybpchvjGufnfacsoeqyt { pw_zaqrkcmmj_sv } => [
-                P(*qk_cuxjrwplc_za),
-                C("qwtr_uof"),
-            ]
-            .pp_resh(self),
-            UqDjqYsbxQanwaovgubNlksnycjmjth::PtHspvkVcCmrXuvauftigzajqFnqszcxtm { .. } => self.habtr_fvqeg([]),
-            SaFnaNsqwKlpkzqevigLzjyebacfoco::YoTfjvhjuJvKesWjnznbrcqrfzrBciapiesg {
-                si_j_us,
-                lh_v_jl,
-                k_zzik_orn_j_njzk_gd,
-            } => [
-                A("osmt_cea"),
-                T("ycba_ite"),
-                Y(*wg_n_ht),
-                R(*hu_f_cz),
-                W(*x_pwmy_rck_x_ppfk_qo),
-            ]
-            .js_ylzt(self),
             DeQotWejrYkzshbniclFbyxwhpfdfbs::DyPojmibxGcjhljurkp { .. } => self.wycio_lspuj([]),
             OgBjaLiudBxydfuwohsKlkjjnfyrovn::ArCykandtLewqdrg {
                 // If it contains a greek letter and a trailing space, cargo fmt will panic
