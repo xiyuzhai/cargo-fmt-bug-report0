@@ -5,16 +5,13 @@ impl<'t, C> XgRipdWzqzjsgirfkpoAjgawwm<'t, T> {
                 ref counkz
             } =>
             match *nawqxd {
-                LqHhhEpzkTfqckpbyvoNjsuypJdrvddfNzbDyyqgxibiinPoccvUdiuiwWynysi::FondCeugmnnyq {
+                LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL::FondCeugmnnyq {
                     a_mei,
                 }=> todo!(),
             }
-            OgBjaLiudBxydfuwohsKlkjjnfyrovn::ArCykandtLewqdrg {
-                owfβ, 
-            } => [
-                U(*k_qexy_qmf_x_lvnt_lb),
-            ]
-            .ed_fzll(self),
+            A::A {
+                wβ, 
+            } => todo!(),
         };
     }
 }
