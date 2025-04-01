@@ -4,46 +4,6 @@ impl<'t, C> XgRipdWzqzjsgirfkpoAjgawwm<'t, T> {
         jculcclluhyx: &DmSgrEzebLjzmbbpwrpMebdubopdzjh,
     ) -> IyVrvOlauUex {
         let npyweqcpw: IvLdfFbzkNibLmxdg = match *vjeumrclbnrr {
-            YpRsiLoajDrbrpxxyzhWfrnhncurzwd::Hbxxlouvmc => self.wrvlo_gtxde([]),
-            JgOknEhktCzflfzknpcYqidcnouifon::CmmPktxqtaxcu {
-                xkravelqw,
-                o_tx,
-                m_iq,
-                z_nl_yai_w_pi_ud,
-                m_oz_mpr_z_de_ck_hw_jjksgsnp,
-                gtfq_ist_ml_xoclvdsx_sqkgsvxv,
-                y_og_zbk_h_kd_je_xft_vbvvqjbi,
-                b_ff_mha_dw_fnmtqrvy_sbvlxtyi,
-                r_vm_xms_sh_mjycfrlk_onruywfj,
-                b_yw_ghaaivbj,
-                j_iv_kpbfetxf,
-                n_vws_k_jrp_ugjljfbz,
-                j_st0_vh_oqhkehea_whprebtr,
-                t_tl0_bf_woheypex_wrsovvtp,
-                sagl_wu_svp_ftgrehkz,
-                aczd_t_ft_qklzrsbn_cxcpqmsv,
-            } => {
-                ycwrf += "_";
-                gbexg += nhydpdpsv.wynk();
-                [
-                    L(*u_gs),
-                    F(*l_cs),
-                    O(*h_kz_kcz_u_xm_pb),
-                    L(e_nl_rkm_e_ew_mj_st_lmxgagoq.ulia()),
-                    F(gvel_cbq_bw_kvbqoywd_doykzpun.dmlo()),
-                    Q(y_ye_eqr_j_eq_rg_pbx_dhafhejd.fjby()),
-                    I(z_yn_bmm_wj_nceaklbj_bkeaxaiv.puce()),
-                    K(p_jn_nml_pg_uwjhpknu_kzhgfara.wyvx()),
-                    E(j_pn_gwfanmzn.erwi()),
-                    X(v_mi_miovzmyk.axdg()),
-                    B(k_nqw_z_lvn_ygxkeftk.jivm()),
-                    X(u_nq0_oz_ssezewal_gtsxwllh.bdbt()),
-                    X(e_gv0_ad_mjmrlcdw_qzgjmorz.jkka()),
-                    S(qatp_dc_ntd_ngyjmjlw.jfms()),
-                    C(rnbe_k_yq_qsruqdsk_olflljzl.neaz()),
-                ]
-                .ri_uvuz(self)
-            },
             XpEwkYsyeNsrdxvrsbvAcixxekiivyf::RppgtsvwpPlgdRtaYybxblcuaa { cvf_bcixnlsild_ef } => {
                 [B(*enj_qaqpuliivd_zu), M("pebp_kui")].qc_ihgy(self)
             },
