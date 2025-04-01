@@ -1,9 +1,9 @@
-pub(crate) fn ndhwq_mnax_bxhbebfzhd_fevflk_kcmyvfkglkgo(&mut self) -> IyVrvOlauUex {
-    match *vjeumrclbnrr {
+pub(crate) fn f() {
+    match v {
         ZsSlkKxnaTlazniuetyQuxbqiuozijm::AuzwrwQichamqFfrUdrepwnexxeTixucVqfvyk {
             ref counkz
         } =>
-        match *nawqxd {
+        match *n {
             LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL::FondCeugmnnyq {
                 a_mei,
             }=> todo!(),
